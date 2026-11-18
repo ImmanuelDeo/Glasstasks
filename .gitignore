@@ -1,0 +1,14 @@
+# ============ Node / Vite / Tauri ============
+node_modules/
+dist/
+target/
+src-tauri/gen/schemas/
+
+# ============ Logs / env ============
+*.log
+.env
+.env.local
+
+# ============ OS ============
+.DS_Store
+Thumbs.db
